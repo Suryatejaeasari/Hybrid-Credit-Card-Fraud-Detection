@@ -11,6 +11,10 @@ This project implements a **hybrid fraud detection system** that integrates:
 
 The system **reduces false positives** while ensuring robust fraud detection, achieving **98.41% accuracy**.  
 
+## 📊 Dataset Used  
+- **IEEE-CIS 2019 Credit Card Fraud Detection Dataset**  
+- Available on Kaggle: [🔗 IEEE Fraud Detection Dataset](https://www.kaggle.com/competitions/ieee-fraud-detection/data)  
+
 ## Features  
 - **Neural Network Training**: Uses **log transformation, focal loss, and Nadam optimizer**  
 - **Rule-Based System**: Applies expert-defined fraud detection rules  
