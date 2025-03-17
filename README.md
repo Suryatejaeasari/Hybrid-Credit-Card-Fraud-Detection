@@ -46,8 +46,8 @@ The hybrid system improves **accuracy to 98.41%**, outperforming traditional mod
 
 1. Clone the Repository
    ```sh
-    git clone https://github.com/Suryatejaeasari/hybrid-credit-card-fraud-detection.git
-    cd hybrid-credit-card-fraud-detection
+    git clone https://github.com/Suryatejaeasari/Hybrid-Credit-Card-Fraud-Detection.git
+    cd Hybrid-Credit-Card-Fraud-Detection
     ```
 2. Create a Virtual Environment (Optional but Recommended)
    ```sh
