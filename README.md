@@ -6,7 +6,7 @@
 
 ## Overview  
 This project implements a **hybrid fraud detection system** that integrates:  
-- **Deep Neural Network** for learning fraud patterns  
+- **Neural Network** for learning fraud patterns  
 - **Rule-Based System** for improved interpretability & accuracy  
 
 The hybrid system improves **accuracy to 98.41%**, outperforming traditional models by leveraging both **AI-based detection** and **human-understandable rules**.  
